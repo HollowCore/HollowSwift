@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HollowCore",
+        "repositoryURL": "https://github.com/HollowCore/HollowCore.git",
+        "state": {
+          "branch": "swiftpm",
+          "revision": "65942014269cae8cbc91f39f83aa3d48b4d0f3d6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,3 +1,3 @@
 # HollowSwift
 
-Swift .
+Swift compatible bindings for HollowCore.
